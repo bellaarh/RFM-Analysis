@@ -4,6 +4,7 @@
 This repository contains the technical implementation of a behavioral customer segmentation model using the **RFM (Recency, Frequency, Monetary)** framework. The project processes a large-scale retail dataset to identify high-value customers, detect churn risks, and provide data-driven foundations for targeted marketing strategies.
 
 **🔗 Business Portfolio & Strategic Insights:** [https://app.notion.com/p/Retail-Sales-Customer-Segmentation-RFM-Analysis-06b915debe778323895781f2494c24bd?source=copy_link]
+
 **🔗 Interactive Dashboard:** [https://public.tableau.com/views/RFMAnalysis_17831335505360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## 🛠️ Tech Stack
