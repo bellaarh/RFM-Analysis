@@ -49,4 +49,4 @@ Customers were classified into actionable segments based on their RFM scores:
 * **Lost:** Low scores across all dimensions.
 
 ## 📊 Dashboard Preview
-online-retail/image/dashboard_preview.png
+![Retail Sales & Customer Segmentation (RFM Analysis)](image/dashboard_preview.png)
