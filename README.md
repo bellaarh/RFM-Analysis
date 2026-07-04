@@ -14,6 +14,7 @@ This repository contains the technical implementation of a behavioral customer s
 * **Environment:** Jupyter Notebook / VS Code
 
 ## 🗂️ Repository Structure
+```text
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -22,7 +23,7 @@ This repository contains the technical implementation of a behavioral customer s
 ├── images/
 │   └── dashboard_preview.png
 └── README.md
-
+```
 
 ## ⚙️ Technical Workflow & Data Pipeline
 
