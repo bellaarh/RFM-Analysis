@@ -8,7 +8,7 @@ This repository contains the technical implementation of a behavioral customer s
 **🔗 Interactive Dashboard:** [https://public.tableau.com/views/RFMAnalysis_17831335505360/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## 🛠️ Tech Stack
-* **Language:** Python 3.x
+* **Language:** Python
 * **Libraries:** Pandas (Data Manipulation), Datetime (Temporal Analysis)
 * **Visualization:** Tableau Public
 * **Environment:** Jupyter Notebook / VS Code
